@@ -65,7 +65,7 @@ Contains the project's metadata, including dependencies like Express, EJS, Mongo
 
 1. **Clone the Repository**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Ashish-Chokhani/Blog.git
     cd Blog
     ```
 
