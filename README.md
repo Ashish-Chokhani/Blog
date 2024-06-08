@@ -128,4 +128,7 @@ The EJS templates dynamically render the content based on the data passed from t
 ### CSS Styles
 Add your custom styles in public/css/styles.css to style the application as desired.
 
+## Contribution
+If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
 
